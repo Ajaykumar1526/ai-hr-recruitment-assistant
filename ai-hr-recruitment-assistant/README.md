@@ -44,7 +44,7 @@ ai-hr-recruitment-assistant/
 ├── app.py                     # Streamlit UI (entry point)
 ├── requirements.txt
 ├── README.md
-├── .env.example
+├── .env
 ├── .gitignore
 │
 ├── src/
