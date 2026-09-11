@@ -148,7 +148,7 @@ ai-hr-recruitment-assistant/
 ## Installation
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/Ajaykumar1526/ai-hr-recruitment-assistant
 cd ai-hr-recruitment-assistant
 
 python -m venv venv
